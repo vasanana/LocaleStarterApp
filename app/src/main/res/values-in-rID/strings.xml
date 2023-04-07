@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_help">Bantuan</string>
+    <string name="help_text">Jika butuh bantuan, silahkan menghubungi departemen kami</string>
+    <string name="app_name">LocaleText</string>
+    <string name="description">Nougat adalah keluarga manisan yang dibuat dengan gula atau madu, kacang panggang (almond, kenari, pistachio, hazelnut, dan kacang macadamia yang umum), putih telur kocok, dan kadang-kadang manisan buah cincang. Ini digunakan dalam berbagai permen dan cokelat.</string>
+    <string name="nougat">Permen Nougat</string>
+    <string name="dial_log_message">Tidak dapat menyelesaikan app for action_dial intent</string>
+    <string name="action_language">Bahasa</string>
+    <string name="expired_label">Tanggal kadaluarsa</string>
+    <string name="enter_number">Masukkan nomor</string>
+    <string name="quantity_label">kuantitas</string>
+    <string name="enter_a_number">Masukan nomor</string>
+    <string name="price_label">Harga:</string>
+    <string name="total_to_pay">Total harga:</string>
+</resources>
